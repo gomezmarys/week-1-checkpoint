@@ -1,0 +1,45 @@
+/* A gradient in the background so the content stays the focus. Pink, because that's me */
+body {
+  background: linear-gradient(to bottom, #faf8f6, #f8cca0);
+  min-height: 100vh;
+  margin: 0;
+  padding: 24px 8px;
+  font-family: Helvetica, sans-serif;
+  color: #2b2929;
+  line-height: 1.6;
+}
+/* A card keeps everything easy to read */
+main {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 24px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.12);
+}
+/* A personalized moment */
+h1 {
+  font-family: Georgia, serif;
+  font-size: 2.5rem;
+  color: #f0a2bd;
+  margin-bottom: 16px;
+}
+h2 {
+  font-family: Georgia, serif;
+  border-bottom: 2px dotted #f0a2bd;
+  padding-bottom: 8px;
+  font-size: 2rem;
+  color: #1f1f1e;
+  margin-top: 36px;
+}
+h3 {
+  font-family: Georgia, serif;
+  font-size: 1.5rem;
+  color: #1f1f1e;
+  margin-top: 24px;
+}
+p{
+    color:#1f1f1e
+    font-size: 1rem;
+    margin-bottom: 16px;
+}
