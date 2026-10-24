@@ -13,20 +13,21 @@ main {
   max-width: 600px;
   margin: 0 auto;
   padding: 24px;
-  background-color: #ffffff;
+  background-color: #faf8f6;
   border-radius: 12px;
   box-shadow: 0 6px 24px rgba(0, 0, 0, 0.12);
 }
 /* A personalized moment */
 h1 {
   font-family: Georgia, serif;
-  font-size: 2.5rem;
+  font-size: 3.0rem;
   color: #f0a2bd;
   margin-bottom: 16px;
+  text-align: center;
 }
 h2 {
   font-family: Georgia, serif;
-  border-bottom: 2px dotted #f0a2bd;
+  border-bottom: 2px dotted #f8cca0;
   padding-bottom: 8px;
   font-size: 2rem;
   color: #1f1f1e;
@@ -50,9 +51,14 @@ img {
   max-width: 100%;
   height: auto;
   border-radius: 10px;
+  transform: scale(1.00);
+  border: 2px dotted eaa055;
 }
 figcaption {
   font-size: 0.80rem;
-  color:#f0a2bd;
-  margin-top: 60px;
+  color:#0b0b0b;
+  margin-top: 6px;
+}
+a {
+  color:#eaa055;
 }
