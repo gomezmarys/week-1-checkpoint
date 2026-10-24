@@ -51,14 +51,15 @@ img {
   max-width: 100%;
   height: auto;
   border-radius: 10px;
-  transform: scale(1.00);
-  border: 2px dotted eaa055;
+  transform: scale (1.00);
+  border: 4px dotted eaa055;
 }
 figcaption {
   font-size: 0.80rem;
   color:#8c8989;
   margin-top: 6px;
 }
+/* changing the color of the hyperlink*/
 a {
   color:#eaa055;
 }
