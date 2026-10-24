@@ -43,3 +43,16 @@ p{
     font-size: 1rem;
     margin-bottom: 16px;
 }
+figure {
+  margin: 24px; 
+}
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+figcaption {
+  font-size: 0.80rem;
+  color:#f0a2bd;
+  margin-top: 60px;
+}

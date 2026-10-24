@@ -18,3 +18,6 @@
 | 4   | Updated index.html                    | Add a list of things I like         | main   |
 | 5   | Updated index.html                    | Add my goals                        | main   |
 | 6   | Add a stylesheet to my page           | Add a stylesheet with basic styling | main   |
+| 7   | Add a image folder and an image       | Add coding desk pic with credits    | main   |
+| 8   | Updated index.html                    | Added a link with a description     | main   |
+| 9   | Updated the ACP Log                        | Update ACP log                      | main   |
